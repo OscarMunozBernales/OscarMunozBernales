@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @OscarMunozBernales
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🧑🏽 Hola soy Oscar Muñoz Bernales titulado en ingeniería en informática en la Universidad Tecnológica Metropolitana de Chile (UTEM) cuento con más de 5 años de experiencia como informático. Soy una persona capaz de trabajar en equipo multidisciplinarios, siguiendo la metodología SCRUM y ademas siempre estoy en constante aprendizaje con respecto a temas como por ejemplo programación, desarrollo de software, planificación, etc. Me considero una persona carismática, puntual, capaz de lograr lo que me proponga y siempre voy a dar lo mejor de mí para poder lograr mis objetivos.
 
-<!---
-OscarMunozBernales/OscarMunozBernales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Durante mi etapa como universitario di clases como ayudante de programación en Python y en base de datos Mysql. En mi tesis realicé una aplicación móvil para sistema operativo Android la cual consistía calcular el tiempo que se demora un bus en llegar a un paradero en especifico para una comuna rural (Til Til), la aplicación la desarrollé con el lenguaje Java y base de datos Sqlite para almacenar datos, el servidor (del cual se alimentaba la aplicación) estaba montado en un sistema operativo ubuntu y tenia un backend con php (laravel) y una base de datos Mysql. Con este proyecto logré obtener la calificación máxima en mi examen de titulo.
+
+✨ Me gusta mucho la programación, poder analizar datos, resolver problemas informáticos y crear soluciones informáticas que tengan un gran impacto a nuestra sociedad. También me gusta estar al día con nuevas tecnologías que van surgiendo y prometen simplificar las soluciones a la sociedad, ademas, me gusta llevar a cabo proyectos informáticos propios ocupando Jira como plataforma de planificación.
+
+🎯 Mi objetivo es poder desarrollar mi carrera como ingeniero en informática formando parte de una empresa que me permita aplicar todo lo aprendido hasta ahora y seguir creciendo tanto personal como profesionalmente para lograr los mejores resultados.
